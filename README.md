@@ -21,6 +21,7 @@ Password: “georgia7”
 Username: “elon7”
 Password: “elon7”
 
+Hard coded user name and password for management:
 Username: “sunny1”
 Password: “sunny1”
 
